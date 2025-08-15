@@ -1,6 +1,8 @@
 # Meu Euro Bot
 The posts will be automacally always the change is greater than 1%, but it's can be changed.
 
+> Create a file config.py on root of project
+
 ## Information of keys to connect to Twitter/X api
 ```
 bearer_token = ""
